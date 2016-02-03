@@ -39,6 +39,21 @@ This repository also contains [archived PDFs](pdfs/) and [data extracted from th
 
 - Colombia's national institute of health is publishing [Zika-related reports](http://www.ins.gov.co/Noticias/ZIKA/Forms/AllItems.aspx), including regional counts of suspected Zika samples sent to the agency for testing. The [latest covers 2015-09-01 through 2016-01-29](http://www.ins.gov.co/Noticias/ZIKA/reporte%20zika-02.pdf).
 
+#### Germany 
+
+- In December 2015, German authorities confirmed one case in a German national having travelled to
+Haiti. [ECDC Report, page 14](http://ecdc.europa.eu/en/publications/Publications/rapid-risk-assessment-zika-virus-first-update-jan-2016.pdf)
+
+#### Finland 
+
+- In June 2015, one confirmed case was reported in a patient with fever and rash having travelled to the
+Maldives. [ECDC Report, page 14](http://ecdc.europa.eu/en/publications/Publications/rapid-risk-assessment-zika-virus-first-update-jan-2016.pdf)
+
+#### The Netherlands 
+
+- A confirmed case of Zika virus infection was reported in a 60-year-old, who had returned from
+Suriname on 29 November 2015, following a 3-week holiday [88]. RIVM has reported six imported cases of Zika
+virus infection from Suriname. [ECDC Report, page 14](http://ecdc.europa.eu/en/publications/Publications/rapid-risk-assessment-zika-virus-first-update-jan-2016.pdf)
 
 #### United States
 
