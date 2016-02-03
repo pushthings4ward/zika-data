@@ -58,7 +58,7 @@ Maldives. [ECDC Report, page 14](http://ecdc.europa.eu/en/publications/Publicati
 #### The Netherlands
 
 - A confirmed case of Zika virus infection was reported in a 60-year-old, who had returned from
-Suriname on 29 November 2015, following a 3-week holiday [88]. RIVM has reported six imported cases of Zika
+Suriname on 29 November 2015, following a 3-week holiday. RIVM has reported six imported cases of Zika
 virus infection from Suriname. [ECDC Report, page 14](http://ecdc.europa.eu/en/publications/Publications/rapid-risk-assessment-zika-virus-first-update-jan-2016.pdf)
 
 #### United States
